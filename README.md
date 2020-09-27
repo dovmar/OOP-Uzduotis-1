@@ -25,7 +25,7 @@ Norint sugeneruoti studentų namų darbų pažymius, šią funkciją pakeisti į
 ```
 
 Apskaičiuojamas galutinis pažymis priklauso nuo to kokia funkcija jam apskaičiuoti naudojama (**naudojantMediana()** ar **naudojantVidurki()**).
-Vėliau perduodame **isvedimas()** funkcijai argumentą kokį būdą apskaičiuoti rezultatą naudojome. Pvz:
+Vėliau funkcijai **isvedimas()** kaip argumentą perduodame kokį būdą apskaičiuoti rezultatą naudojome. Pvz:
 
 ```c+++
 isvedimas(Stud, n, "(Med.)");
